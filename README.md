@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Janb5563/Janb5563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://aicollaboration.vercel.app/Janb5563/?n=bab20b969bddb2f9">
+  <img src="readme/card.svg?v=1793581900" alt="" width="1600" />
+</a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+
+Still early here; the first projects are on their way.
+
+- **[Janb5563](https://github.com/Janb5563/Janb5563)** — GitHub profile README
+
+
+[Read the collaboration proposal →](https://aicollaboration.vercel.app/Janb5563/?n=bab20b969bddb2f9)
